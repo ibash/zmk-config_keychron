@@ -1,0 +1,7 @@
+identifier: keychron_q3
+name: Keychron Q3
+type: mcu
+arch: arm
+toolchain:
+  - zephyr
+  - gnuarmemb
